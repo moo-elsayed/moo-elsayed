@@ -75,5 +75,5 @@
 
 <h3 align="center">GitHub Stats:</h3>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=moo-elsayed&theme=blue-green" alt="moo-elsayed" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=moo-elsayed&theme=blue-green&cache_seconds=86400" alt="moo-elsayed" />
 </p>
