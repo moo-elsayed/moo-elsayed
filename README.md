@@ -59,11 +59,11 @@
   </a> 
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/> 
+    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-postman-is-the-only-complete-api-development-environment-logo-shadow-tal-revivo.png" alt="Postman" width="40" height="40"/> 
   </a> 
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/48/python--v1.png" alt="Python" width="40" height="40"/> 
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="Java" width="40" height="40"/> 
   </a> 
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
@@ -75,5 +75,5 @@
 
 <h3 align="center">GitHub Stats:</h3>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=moo-elsayed&theme=blue-green&cache_seconds=86400" alt="moo-elsayed" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=moo-elsayed&theme=blue-green" alt="moo-elsayed" />
 </p>
