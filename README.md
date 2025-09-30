@@ -8,9 +8,9 @@
 ---
 
 <p align="center">
-  Highly motivated <strong>Flutter developer</strong> with a passion for crafting beautiful, responsive, and user-centric mobile applications.<br>
-  Skilled in <strong>Dart programming</strong> and design patterns like <strong>Bloc</strong> and <strong>MVVM</strong>, I build scalable and maintainable apps.<br>
-  With hands-on experience in <strong>Android</strong> and <strong>cross-platform development</strong>, I foster collaboration to deliver impactful projects.
+  Passionate Mobile App Developer specialized in Flutter, skilled in Dart, state management (Bloc, Cubit), and  
+     integrating APIs & Firebase. Experienced in building scalable, high-performance apps with clean architecture,  
+     responsive UI, and seamless user experiences. 
 </p>
 
 ---
