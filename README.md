@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Elsayed</h1>
-<h3 align="center">Mobile App Developer</h3>
+<h3 align="center">Flutter Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=moo-elsayed&label=Profile%20views&color=0e75b6&style=flat" alt="moo-elsayed" />
@@ -8,10 +8,11 @@
 ---
 
 <p align="center">
-  Passionate Mobile App Developer specialized in Flutter, skilled in Dart, state management (Bloc, Cubit), and  
-     integrating APIs & Firebase. Experienced in building scalable, high-performance apps with clean architecture,  
-     responsive UI, and seamless user experiences. 
+  Passionate Flutter Mobile App Developer skilled in Dart, state management (Bloc, Cubit),
+  and integrating REST APIs & Firebase. Experienced in building scalable, high-performance
+  applications with clean architecture, responsive UI, and seamless user experiences.
 </p>
+
 
 ---
 
@@ -69,11 +70,4 @@
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/color/48/figma--v1.png" alt="Figma" width="40" height="40"/> 
   </a>
-</p>
-
----
-
-<h3 align="center">GitHub Stats:</h3>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=moo-elsayed&theme=blue-green" alt="moo-elsayed" />
 </p>
