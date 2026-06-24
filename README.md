@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Elsayed</h1>
-<h3 align="center">Flutter Developer</h3>
+<h3 align="center">Computer Science Graduate & Flutter Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=moo-elsayed&label=Profile%20views&color=0e75b6&style=flat" alt="moo-elsayed" />
@@ -8,66 +8,66 @@
 ---
 
 <p align="center">
-  Passionate Flutter Mobile App Developer skilled in Dart, state management (Bloc, Cubit),
-  and integrating REST APIs & Firebase. Experienced in building scalable, high-performance
-  applications with clean architecture, responsive UI, and seamless user experiences.
+  Result-oriented Computer Science Graduate and Passionate Mobile App Developer specialized in Flutter. Proficient in Dart, Clean Architecture, and advanced state management (BLoC/Cubit). Experienced in integrating real-time services (SignalR), secure payment gateways (Stripe), and establishing fully automated CI/CD pipelines to deliver high-performance, scalable mobile applications.
 </p>
-
 
 ---
 
-<h3 align="center">Connect with me:</h3>
+### 💻 Tech Stack & Tools
+
+<p align="left">
+  <!-- Languages & Frameworks -->
+  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=flat&logo=Dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/Android-%233DDC84.svg?style=flat&logo=Android&logoColor=white" alt="Android" />
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white" alt="Java" />
+  <br/>
+  <!-- Backend & Integrations -->
+  <img src="https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=flat&logo=Firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Supabase-%233ECF8E.svg?style=flat&logo=Supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/Stripe-%235433FF.svg?style=flat&logo=Stripe&logoColor=white" alt="Stripe" />
+  <br/>
+  <!-- Architecture & Tools -->
+  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=Git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-%232088FF.svg?style=flat&logo=GitHub-Actions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=flat&logo=Postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat&logo=Figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=flat&logo=Visual-Studio-Code&logoColor=white" alt="VS Code" />
+</p>
+
+---
+
+---
+
+### 📊 GitHub Statistics
+
 <p align="center">
-  <a href="mailto:elmoosayed@gmail.com" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/48/gmail--v1.png" alt="Email" width="40" height="40"/> 
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/moo-elsayed/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" width="40" height="40"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://codeforces.com/profile/kk28xd" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" width="40" height="40"/> 
-  </a>
+  <table align="center" border="0" cellpadding="0" cellspacing="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=moo-elsayed&show_icons=true&theme=tokyonight&count_private=true" alt="Mohamed's GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moo-elsayed&layout=compact&theme=tokyonight" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
 </p>
 
 ---
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> 
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/48/android-os.png" alt="Android" width="40" height="40"/> 
-  </a> 
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://dart.dev" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/48/dart.png" alt="Dart" width="40" height="40"/> 
-  </a> 
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/48/flutter.png" alt="Flutter" width="40" height="40"/> 
-  </a> 
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/48/firebase.png" alt="Firebase" width="40" height="40"/> 
-  </a> 
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/48/android-studio--v2.png" alt="Android Studio" width="40" height="40"/> 
-  </a> 
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="VS Code" width="40" height="40"/> 
-  </a> 
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-postman-is-the-only-complete-api-development-environment-logo-shadow-tal-revivo.png" alt="Postman" width="40" height="40"/> 
-  </a> 
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="Java" width="40" height="40"/> 
-  </a> 
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/48/figma--v1.png" alt="Figma" width="40" height="40"/> 
+### 🤝 Connect with me:
+
+<p align="left">
+  <a href="mailto:elmoosayed@gmail.com" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/gmail--v1.png" alt="Email" width="35" height="35"/> 
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/moo-elsayed/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" width="35" height="35"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://codeforces.com/profile/kk28xd" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces (Problem Solving)" width="35" height="35"/> 
   </a>
 </p>
