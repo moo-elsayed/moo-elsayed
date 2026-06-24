@@ -15,23 +15,27 @@
 
 ### 💻 Tech Stack & Tools
 
-<p align="left">
+<p align="center">
   <!-- Languages & Frameworks -->
-  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=flat&logo=Dart&logoColor=white" alt="Dart" />
-  <img src="https://img.shields.io/badge/Android-%233DDC84.svg?style=flat&logo=Android&logoColor=white" alt="Android" />
+  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white" alt="Flutter" />&nbsp;
+  <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=flat&logo=Dart&logoColor=white" alt="Dart" />&nbsp;
+  <img src="https://img.shields.io/badge/Android-%233DDC84.svg?style=flat&logo=Android&logoColor=white" alt="Android" />&nbsp;
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white" alt="Java" />
-  <br/>
+</p>
+
+<p align="center">
   <!-- Backend & Integrations -->
-  <img src="https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=flat&logo=Firebase&logoColor=black" alt="Firebase" />
-  <img src="https://img.shields.io/badge/Supabase-%233ECF8E.svg?style=flat&logo=Supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=flat&logo=Firebase&logoColor=black" alt="Firebase" />&nbsp;
+  <img src="https://img.shields.io/badge/Supabase-%233ECF8E.svg?style=flat&logo=Supabase&logoColor=white" alt="Supabase" />&nbsp;
   <img src="https://img.shields.io/badge/Stripe-%235433FF.svg?style=flat&logo=Stripe&logoColor=white" alt="Stripe" />
-  <br/>
+</p>
+
+<p align="center">
   <!-- Architecture & Tools -->
-  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=Git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-%232088FF.svg?style=flat&logo=GitHub-Actions&logoColor=white" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=flat&logo=Postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat&logo=Figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=Git&logoColor=white" alt="Git" />&nbsp;
+  <img src="https://img.shields.io/badge/GitHub_Actions-%232088FF.svg?style=flat&logo=GitHub-Actions&logoColor=white" alt="GitHub Actions" />&nbsp;
+  <img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=flat&logo=Postman&logoColor=white" alt="Postman" />&nbsp;
+  <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat&logo=Figma&logoColor=white" alt="Figma" />&nbsp;
   <img src="https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=flat&logo=Visual-Studio-Code&logoColor=white" alt="VS Code" />
 </p>
 
@@ -58,7 +62,7 @@
 
 ### 🤝 Connect with me:
 
-<p align="left">
+<p align="center">
   <a href="mailto:elmoosayed@gmail.com" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/color/48/gmail--v1.png" alt="Email" width="35" height="35"/> 
   </a>
